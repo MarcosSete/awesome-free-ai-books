@@ -161,4 +161,7 @@ If a link breaks, please open an [issue](../../issues/new/choose).
 
 ---
 
-<p align="center">Made with 📖 for the global AI/ML community.</p>
+<p align="center">
+Made with 📖 for the global AI/ML community.<br>
+Curated by <a href="https://github.com/MarcosSete">Marcos Cruz</a> — feel free to connect on <a href="https://www.linkedin.com/in/marcos-gabriel-s-cruz-5603bb289/">LinkedIn</a>.
+</p>
