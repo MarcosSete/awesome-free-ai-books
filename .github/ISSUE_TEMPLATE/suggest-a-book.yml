@@ -1,0 +1,52 @@
+name: 📖 Suggest a book
+description: Propose a free AI/ML book to add to the list
+title: "[Suggestion]: "
+labels: ["new-book"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Book title
+    validations:
+      required: true
+  - type: input
+    id: authors
+    attributes:
+      label: Author(s)
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official link to the free version
+      description: Must be the author's/publisher's own site, not a mirror.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Deep Learning
+        - Reinforcement Learning
+        - Probabilistic / Bayesian
+        - Classical ML / Statistics
+        - NLP / LLMs
+        - Mathematics for ML
+        - ML Systems / Infrastructure
+        - Computer Vision
+        - Generative Models
+        - Causal Inference
+        - Graph Neural Networks
+        - AI Safety / Alignment
+        - Advanced RL / Theory
+        - Other (please specify below)
+    validations:
+      required: true
+  - type: textarea
+    id: proof
+    attributes:
+      label: How do you know it's officially and permanently free?
+      description: Link to where the author confirms this, or explain.
+    validations:
+      required: true

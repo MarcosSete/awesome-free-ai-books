@@ -1,0 +1,35 @@
+name: 🔗 Broken or incorrect link
+description: Report a dead link, wrong URL, or a book that's no longer free
+title: "[Broken Link]: "
+labels: ["broken-link"]
+body:
+  - type: input
+    id: book
+    attributes:
+      label: Book title
+    validations:
+      required: true
+  - type: input
+    id: current-link
+    attributes:
+      label: Current link in the README
+    validations:
+      required: true
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: What's wrong?
+      options:
+        - 404 / page not found
+        - Moved to a new URL
+        - No longer free / now paywalled
+        - Wrong URL was linked
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: fixed-link
+    attributes:
+      label: Corrected link (if you have one)
+    validations:
+      required: false
