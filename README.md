@@ -69,7 +69,7 @@ Every link points to an **official source**. This repository doesn't host any fi
 |---|---|---|---|
 | The Elements of Statistical Learning | Hastie, Tibshirani, Friedman | 2009 | [stanford.edu](https://web.stanford.edu/~hastie/ElemStatLearn/) |
 | An Introduction to Statistical Learning (R & Python) | James, Witten, Hastie, Tibshirani | 2021/2023 | [statlearning.com](https://www.statlearning.com/) |
-| Computer Age Statistical Inference (CASI) | Efron, Hastie | 2016 | [hastie.su.domains](https://hastie.su.domains/CASI_files/PDF/casi.pdf) |
+| Computer Age Statistical Inference (CASI) | Efron, Hastie | 2016 | [hastie.su.domains](https://hastie.su.domains/CASI/order.html) |
 | Foundations of Machine Learning | Mohri, Rostamizadeh, Talwalkar | 2018 | [cs.nyu.edu](https://cs.nyu.edu/~mohri/mlbook/) |
 | Understanding Machine Learning | Shalev-Shwartz, Ben-David | 2014 | [cs.huji.ac.il](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
 | A Course in Machine Learning | Hal Daumé III | — | [ciml.info](http://ciml.info/) |
