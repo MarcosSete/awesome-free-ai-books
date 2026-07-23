@@ -56,7 +56,7 @@ Every link points to an **official source**. This repository doesn't host any fi
 | Probabilistic Machine Learning: An Introduction | Kevin Murphy | 2022 | [probml.github.io](https://probml.github.io/pml-book/book1.html) |
 | Probabilistic Machine Learning: Advanced Topics | Kevin Murphy | 2023 | [probml.github.io](https://probml.github.io/pml-book/book2.html) |
 | Bayesian Reasoning and Machine Learning | David Barber | 2012 | [web4.cs.ucl.ac.uk](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) |
-| Probabilistic Programming & Bayesian Methods for Hackers | Cam Davidson-Pilon | — | [GitHub](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) |
+| Probabilistic Programming & Bayesian Methods for Hackers | Cam Davidson-Pilon | — | [dataorigami.net](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) |
 | Think Bayes | Allen Downey | 2021 | [greenteapress.com](https://greenteapress.com/wp/think-bayes/) |
 | Information Theory, Inference, and Learning Algorithms | David MacKay | 2003 | [inference.phy.cam.ac.uk](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html) |
 | Gaussian Processes for Machine Learning | Rasmussen, Williams | 2006 | [gaussianprocess.org](http://www.gaussianprocess.org/gpml/chapters/) |
@@ -69,7 +69,7 @@ Every link points to an **official source**. This repository doesn't host any fi
 |---|---|---|---|
 | The Elements of Statistical Learning | Hastie, Tibshirani, Friedman | 2009 | [stanford.edu](https://web.stanford.edu/~hastie/ElemStatLearn/) |
 | An Introduction to Statistical Learning (R & Python) | James, Witten, Hastie, Tibshirani | 2021/2023 | [statlearning.com](https://www.statlearning.com/) |
-| Computer Age Statistical Inference (CASI) | Efron, Hastie | 2016 | [stanford.edu](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) |
+| Computer Age Statistical Inference (CASI) | Efron, Hastie | 2016 | [hastie.su.domains](https://hastie.su.domains/CASI_files/PDF/casi.pdf) |
 | Foundations of Machine Learning | Mohri, Rostamizadeh, Talwalkar | 2018 | [cs.nyu.edu](https://cs.nyu.edu/~mohri/mlbook/) |
 | Understanding Machine Learning | Shalev-Shwartz, Ben-David | 2014 | [cs.huji.ac.il](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
 | A Course in Machine Learning | Hal Daumé III | — | [ciml.info](http://ciml.info/) |
@@ -157,7 +157,7 @@ This repository **does not host any files**. It works as a catalog/index, pointi
 - Avoids copyright issues and possible takedowns of the repository.
 - Guarantees you always get the most up-to-date version (several of these books — like *Speech and Language Processing* and *The Little Book of Deep Learning* — are updated frequently).
 
-If a link breaks, please open an [issue](../../issues/new/choose).
+If a link breaks, please open an [issue](https://github.com/MarcosSete/awesome-free-ai-books/issues/new/choose).
 
 ---
 
