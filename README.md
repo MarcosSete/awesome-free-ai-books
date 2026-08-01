@@ -105,12 +105,16 @@ Every link points to an **official source**. This repository doesn't host any fi
 | Book | Author(s) | Year | Official Link |
 |---|---|---|---|
 | Computer Vision: Algorithms and Applications (2nd ed.) | Richard Szeliski | 2022 | [szeliski.org/Book](https://szeliski.org/Book/) (simple sign-up, free download) |
+| Computer Vision: Models, Learning, and Inference | Simon J.D. Prince | 2012 | [computervisionmodels.com](http://www.computervisionmodels.com) |
+| Foundations of Computer Vision | Antonio Torralba, Phillip Isola, William T. Freeman | 2024 | [visionbook.mit.edu](https://visionbook.mit.edu) |
 
 ## 🎨 Generative Models (Diffusion, GANs, VAEs)
 
 | Book | Author(s) | Year | Official Link |
 |---|---|---|---|
 | Deep Generative Modeling (2nd ed.) | Jakub M. Tomczak | 2024 | [jmtomczak.github.io](https://jmtomczak.github.io/dgm_book.html) — covers mixture models, autoregressive models, flows, VAEs, GANs, score-based/diffusion, energy-based models, and LLMs |
+| An Introduction to Variational Autoencoders | Diederik P. Kingma, Max Welling | 2019 | [arxiv.org](https://arxiv.org/abs/1906.02691) |
+| The Principles of Diffusion Models | Chieh-Hsin Lai, Yang Song, Dongjun Kim, Yuki Mitsufuji, Stefano Ermon | 2025 | [arxiv.org](https://arxiv.org/abs/2510.21890) |
 
 ## 🔗 Causal Inference
 
@@ -123,6 +127,8 @@ Every link points to an **official source**. This repository doesn't host any fi
 | Book | Author(s) | Year | Official Link |
 |---|---|---|---|
 | Graph Representation Learning | William L. Hamilton | 2020 | [cs.mcgill.ca/~wlh/grl_book](https://www.cs.mcgill.ca/~wlh/grl_book/) |
+| Deep Learning on Graphs | Yao Ma, Jiliang Tang | 2021 | [yaoma24.github.io](https://yaoma24.github.io/dlg_book/) |
+| Graph Neural Networks: Foundations, Frontiers, and Applications | Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao | 2022 | [graph-neural-networks.github.io](https://graph-neural-networks.github.io/) |
 
 ## 🛡️ AI Safety / Alignment
 
