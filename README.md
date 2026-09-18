@@ -84,6 +84,7 @@ Every link points to an **official source**. This repository doesn't host any fi
 | Speech and Language Processing (3rd ed., draft) | Daniel Jurafsky, James Martin | 2026 (active draft) | [web.stanford.edu](https://web.stanford.edu/~jurafsky/slp3/) |
 | Foundations of Statistical Natural Language Processing | Manning, Schütze | 1999 | [nlp.stanford.edu](https://nlp.stanford.edu/fsnlp/promo/) |
 | An Introduction to Information Retrieval | Manning, Raghavan, Schütze | 2008 | [nlp.stanford.edu](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) |
+| Research, Rewritten: Using AI to Produce Knowledge You Can Trust | Hallie Ren | 2026 | [hallieren.github.io](https://hallieren.github.io/research-rewritten/) |
 | NLTK Book | Bird, Klein, Loper | — | [nltk.org](https://www.nltk.org/book/) |
 
 ## 🧮 Mathematics for ML
