@@ -86,6 +86,7 @@ Every link points to an **official source**. This repository doesn't host any fi
 | An Introduction to Information Retrieval | Manning, Raghavan, Schütze | 2008 | [nlp.stanford.edu](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) |
 | AI Agent Evaluation | Hallie Ren | 2026 | [hallieren.github.io](https://hallieren.github.io/ai-agent-evaluation/) |
 | Research, Rewritten: Using AI to Produce Knowledge You Can Trust | Hallie Ren | 2026 | [hallieren.github.io](https://hallieren.github.io/research-rewritten/) |
+| AiBook: A Human Survival Guide for When the AI Steals Your Girlfriend, Becomes Your Dog's Best Friend, and Has Your Wi-Fi Password (password1) | Jeremy Schoemaker | 2026 | [cdn.shoemoney.com](https://cdn.shoemoney.com/aibook/AiBook.pdf) |
 | NLTK Book | Bird, Klein, Loper | — | [nltk.org](https://www.nltk.org/book/) |
 
 ## 🧮 Mathematics for ML
