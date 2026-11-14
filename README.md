@@ -80,13 +80,13 @@ Every link points to an **official source**. This repository doesn't host any fi
 |---|---|---|---|
 | Learning Theory from First Principles | Francis Bach | 2024 | [di.ens.fr](https://www.di.ens.fr/~fbach/ltfp/) — author-hosted final draft |
 | The Hundred-Page Machine Learning Book | Andriy Burkov | 2019 | [themlbook.com](http://themlbook.com/wiki/doku.php) |
+| A Course in Machine Learning | Hal Daumé III | — | [ciml.info](http://ciml.info/) |
 | Computer Age Statistical Inference (CASI) | Efron, Hastie | 2016 | [hastie.su.domains](https://hastie.su.domains/CASI/order.html) |
 | Regression and Other Stories | Andrew Gelman, Jennifer Hill, Aki Vehtari | 2020 | [stat.columbia.edu](https://sites.stat.columbia.edu/gelman/regression/) — free for personal use |
 | Statistical Learning with Sparsity: The Lasso and Generalizations | Trevor Hastie, Robert Tibshirani, Martin Wainwright | 2015 | [stanford.edu](https://web.stanford.edu/~hastie/StatLearnSparsity/) |
 | The Elements of Statistical Learning | Hastie, Tibshirani, Friedman | 2009 | [stanford.edu](https://web.stanford.edu/~hastie/ElemStatLearn/) |
 | Forecasting: Principles and Practice (3rd ed.) | Rob J. Hyndman, George Athanasopoulos | 2021 (updated 2026) | [otexts.com/fpp3](https://otexts.com/fpp3/) |
 | Forecasting: Principles and Practice, the Pythonic Way | Rob J. Hyndman, George Athanasopoulos, Azul Garza, Cristian Challu, Max Mergenthaler, Kin G. Olivares | 2026 | [otexts.com/fpppy](https://otexts.com/fpppy/) |
-| A Course in Machine Learning | Hal Daumé III | — | [ciml.info](http://ciml.info/) |
 | An Introduction to Statistical Learning (R & Python) | James, Witten, Hastie, Tibshirani | 2021/2023 | [statlearning.com](https://www.statlearning.com/) |
 | Feature Engineering and Selection: A Practical Approach for Predictive Models | Max Kuhn, Kjell Johnson | 2019 | [Posit Open Source](https://opensource.posit.co/resources/books/feature-engineering-and-selection/) — free online |
 | Mining Massive Datasets | Leskovec, Rajaraman, Ullman | — | [stanford.edu](http://infolab.stanford.edu/~ullman/mmds/book.pdf) |
@@ -175,8 +175,8 @@ Every link points to an **official source**. This repository doesn't host any fi
 |---|---|---|---|
 | Fairness and Machine Learning: Limitations and Opportunities | Solon Barocas, Moritz Hardt, Arvind Narayanan | 2023 | [fairmlbook.org](https://fairmlbook.org/) |
 | Data Feminism | Catherine D’Ignazio, Lauren F. Klein | 2020 | [data-feminism.mitpress.mit.edu](https://data-feminism.mitpress.mit.edu/) — open access |
-| Interpretable Machine Learning (3rd ed.) | Christoph Molnar | 2025 | [christophm.github.io](https://christophm.github.io/interpretable-ml-book/) |
 | Introduction to AI Safety, Ethics, and Society | Dan Hendrycks (Center for AI Safety) | 2024 | [aisafetybook.com](https://www.aisafetybook.com/) — open access, includes a free companion course |
+| Interpretable Machine Learning (3rd ed.) | Christoph Molnar | 2025 | [christophm.github.io](https://christophm.github.io/interpretable-ml-book/) |
 
 ## 🎓 Advanced RL / Theory
 
