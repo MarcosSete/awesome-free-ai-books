@@ -88,7 +88,7 @@ Every link points to an **official source**. This repository doesn't host any fi
 | Forecasting: Principles and Practice, the Pythonic Way | Rob J. Hyndman, George Athanasopoulos, Azul Garza, Cristian Challu, Max Mergenthaler, Kin G. Olivares | 2026 | [otexts.com/fpppy](https://otexts.com/fpppy/) |
 | A Course in Machine Learning | Hal Daumé III | — | [ciml.info](http://ciml.info/) |
 | An Introduction to Statistical Learning (R & Python) | James, Witten, Hastie, Tibshirani | 2021/2023 | [statlearning.com](https://www.statlearning.com/) |
-| Feature Engineering and Selection: A Practical Approach for Predictive Models | Max Kuhn, Kjell Johnson | 2019 | [fe-book.com](https://fe-book.com/) — free online |
+| Feature Engineering and Selection: A Practical Approach for Predictive Models | Max Kuhn, Kjell Johnson | 2019 | [Posit Open Source](https://opensource.posit.co/resources/books/feature-engineering-and-selection/) — free online |
 | Mining Massive Datasets | Leskovec, Rajaraman, Ullman | — | [stanford.edu](http://infolab.stanford.edu/~ullman/mmds/book.pdf) |
 | Foundations of Machine Learning | Mohri, Rostamizadeh, Talwalkar | 2018 | [cs.nyu.edu](https://cs.nyu.edu/~mohri/mlbook/) |
 | Understanding Machine Learning | Shalev-Shwartz, Ben-David | 2014 | [cs.huji.ac.il](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
@@ -158,7 +158,7 @@ Every link points to an **official source**. This repository doesn't host any fi
 | Causal Inference for the Brave and True | Matheus Facure | 2020 | [matheusfacure.github.io](https://matheusfacure.github.io/python-causality-handbook/) |
 | Causal Inference: What If | Miguel Hernán, James Robins | 2020 (updated) | [miguelhernan.org/whatifbook](https://miguelhernan.org/whatifbook) |
 | The Effect: An Introduction to Research Design and Causality | Nick Huntington-Klein | 2021 | [theeffectbook.net](https://theeffectbook.net/) |
-| Elements of Causal Inference | Jonas Peters, Dominik Janzing, Bernhard Schölkopf | 2017 | [MIT Press](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/) — open access |
+| Elements of Causal Inference | Jonas Peters, Dominik Janzing, Bernhard Schölkopf | 2017 | [OAPEN](https://library.oapen.org/handle/20.500.12657/26040) — open access |
 
 ## 🕸️ Graph Neural Networks
 
