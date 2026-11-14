@@ -26,6 +26,7 @@ Every link points to an **official source**. This repository doesn't host any fi
 - [🕸️ Graph Neural Networks](#️-graph-neural-networks)
 - [🛡️ AI Safety / Alignment](#️-ai-safety--alignment)
 - [🎓 Advanced RL / Theory](#-advanced-rl--theory)
+- [🎲 Game Theory / Multi-Agent](#-game-theory--multi-agent)
 - [How to Contribute](#-how-to-contribute)
 - [Why Official Links Only](#️-why-official-links-only)
 
@@ -187,6 +188,13 @@ Every link points to an **official source**. This repository doesn't host any fi
 | A Course in Reinforcement Learning (2nd ed.) | Dimitri Bertsekas | 2023/2025 | [author's site (ASU)](https://faculty.engineering.asu.edu/bertsekas/) |
 
 ---
+
+## 🎲 Game Theory / Multi-Agent
+
+| Book | Author(s) | Year | Official Link |
+|---|---|---|---|
+| Networks, Crowds, and Markets: Reasoning About a Highly Connected World | David Easley, Jon Kleinberg | 2010 | [Cornell University](https://www.cs.cornell.edu/home/kleinber/networks-book/) — free author draft |
+| Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations | Yoav Shoham, Kevin Leyton-Brown | 2009 | [masfoundations.org](https://www.masfoundations.org/download.html) — free author-hosted eBook for screen viewing |
 
 ## 🤝 How to Contribute
 
