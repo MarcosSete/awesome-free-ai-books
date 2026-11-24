@@ -109,6 +109,7 @@ Every link points to an **official source**. This repository doesn't host any fi
 | AI Agent Evaluation | Hallie Ren | 2026 | [hallieren.github.io](https://hallieren.github.io/ai-agent-evaluation/) |
 | Research, Rewritten: Using AI to Produce Knowledge You Can Trust | Hallie Ren | 2026 | [hallieren.github.io](https://hallieren.github.io/research-rewritten/) |
 | AiBook: A Human Survival Guide for When the AI Steals Your Girlfriend, Becomes Your Dog's Best Friend, and Has Your Wi-Fi Password (password1) | Jeremy Schoemaker | 2026 | [cdn.shoemoney.com](https://cdn.shoemoney.com/aibook/AiBook.pdf) |
+| Foundation Model Engineering | Seongeun So | 2026 | [sungeuns.github.io](https://sungeuns.github.io/foundation-model-engineering/) |
 | Deep Learning for Natural Language Processing: A Gentle Introduction | Mihai Surdeanu, Marco A. Valenzuela-Escárcega | 2023 | [clulab.org](https://clulab.org/gentlenlp/) |
 | Foundations of Large Language Models | Tong Xiao, Jingbo Zhu | 2025 | [arXiv](https://arxiv.org/abs/2501.09223) |
 
